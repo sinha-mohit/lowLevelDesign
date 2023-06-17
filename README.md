@@ -71,8 +71,7 @@ Based on the provided requirements for the BookMyShow app, the following SOLID p
    - The requirements do not explicitly mention inheritance or polymorphism, so the Liskov Substitution Principle does not have a direct application in this context.
 
 4. **Interface Segregation Principle (ISP):**
-   - The requirements do not explicitly mention interfaces or classes, so the Interface Segregation Principle does not have a direct application in this context.
-   - However, the segregation of requirements based on actors can be seen as a form of interface segregation, where each actor's specific needs are addressed separately.
+   - The segregation of requirements based on actors can be seen as a form of interface segregation, where each actor's specific needs are addressed separately.
 
 5. **Dependency Inversion Principle (DIP):**
    - The requirements do not explicitly mention dependencies or inversion of control, so the Dependency Inversion Principle does not have a direct application in this context.
